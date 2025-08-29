@@ -12,17 +12,28 @@ Sistem ini bertujuan untuk menghitung gaji karyawan berdasarkan jam kerja, upah,
 
 - Karyawan Kontrak dikenakan pajak 5%
 
-Sistem akan meminta input dari user berupa nama, jam kerja(per minggu), upah(per jam), dan Status Karyawan(true = Tetap, false = Kontrak).
+Sistem akan meminta input dari user berupa nama, jam kerja(per minggu), upah(per jam), dan Status Karyawan (true = Tetap, false = Kontrak).
 
 Output akan menampilkan nama karywan, gaji kotor, pajak, dan gaji bersih.
   
 # Instruksi Cara Menjalankan program
 1. Pastikan **Dart SDK** sudah terinstal di komputer.
    
-   (Bisa dicek dengan perintah 'dart --version' di terminal).
-3. Buka terminal/command prompt.
-4. Pindah ke folder tempat 'tugas.dart' disimpan.
-5. Jalankan program dengan printah
+   (Cek dengan perintah)
+   ```bash
+   dart --version
+   ```
+2. Clone repository ini atau download sebagai ZIP.
 
    ```bash
+   https://github.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata.git
+   ```
+4. Buka terminal/command prompt.
+5. Pindah ke folder tempat file 'pemrograman-mobile-tugas-variabel-dan-typedata' disimpan.
+   ```bash
+   cd src
+   ```
+7. Jalankan program dengan printah
+   ```bash
    dart tugas.dart
+   ```
