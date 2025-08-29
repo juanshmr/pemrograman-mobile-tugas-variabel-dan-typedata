@@ -1,11 +1,27 @@
+# Identitas Mahasiswa
 Nama  : Ajuan Sahmir
 
 NPM   : 07352311078
 
 Kelas : 5IF3
 
-# Deskripsi Singkat Program
-apklikasi ini bertujuan untuk menghitung gaji karyawan berdasarkan jam kerja(per minggu), upah(perjam), dan pajak. dimana karyawan yg berstatus Tetap dikenakan pajak 10% dan karyawan yg brstatus kontrak dikenakan pajak 5%.
+# Deskripsi Program
+Sistem ini bertujuan untuk menghitung gaji karyawan berdasarkan jam kerja(per minggu), upah(perjam), dan status karyawan. 
 
+- Kryawan Tetap dikenakan pajak 10%
+
+- Karyawan Kontrak dikenakan pajak 5%
+
+Sistem akan meminta input dari user berupa nama, jam kerja(per minggu), upah(per jam), dan Status Karyawan(true = Tetap, false = Kontrak.
+
+output akan menampilkan nama karywan, gaji kotor, pajak, dan gaji bersih.
+  
 # Instruksi Cara Menjalankan programp
-Masukkan input nama, jamkerja(per minggu), upah(perjam), dan status karyawan(true = tetap, false = kontrak), sistem akan menghitung dan menampilkan nama, gaji kotor, pajak, dan gaji bersih.
+1. Pastikan **Dart SDK** sudah terinstal di komputer
+   (Bisa dicek dengan perintah 'dart --version' di terminal).
+3. Buka terminal/command prompt.
+4. Pindah ke folder tempat 'tugas.dart' disimpan.
+5. Jalankan program dengan printah
+
+   '''bash
+   dart tugas.dart
