@@ -29,7 +29,7 @@ Output akan menampilkan nama karywan, gaji kotor, pajak, dan gaji bersih.
    git clone https://github.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata.git
    ```
 4. Buka terminal/command prompt.
-5. Pindah ke folder tempat file *pemrograman-mobile-tugas-variabel-dan-typedata* disimpan.
+5. Pindah ke tempat folder **pemrograman-mobile-tugas-variabel-dan-typedata** disimpan.
    ```bash
    cd src
    ```
