@@ -40,5 +40,6 @@ Output akan menampilkan
 5. Jalankan program dengan printah
    ```bash
    cd src
+   dart tugas.dart
    
    ```
