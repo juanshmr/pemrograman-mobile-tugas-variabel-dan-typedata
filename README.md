@@ -40,5 +40,5 @@ Output akan menampilkan
 5. Jalankan program dengan printah
    ```bash
    cd src
-  https://github.com/juanshmr/pemrograman-mobile-tugas-variabel-dan-typedata.git
+   
    ```
